@@ -28,6 +28,5 @@
 | 当事人 | 事件 | 点评 |
 |-------|--------|-----------|
 | <img src="assets/HZYgrandma.jpg" width="80"> | <img src="assets/HZYgrandma1.jpg" width="300"> | 如果世界失去了他的钩子，那将是整个世界的不幸 |
-| <img src="assets/牢包睡个好觉.jpg" width="80"> | <img src="assets/牢包睡个好觉1.jpg" width="300"> | 🙏√门🙏 | 
 | <img src="assets/苏婷.jpg" width="80"> | <img src="assets/苏婷1.jpg" width="300"> | 雌小鬼的结果是：__ | 
 | <img src="assets/曦.jpg" width="80"> | <img src="assets/曦1.jpg" width="300"> | 挺好的，很合适 | 
